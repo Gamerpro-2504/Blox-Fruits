@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+    font-size:30px;
+    background:linear-gradient(red,blue,yellow,green);
+}
+h1{
+    text-decoration:underline;
+}
+img{
+    border-radius: 10px;
+    border: 10px ridge maroon;
+}
